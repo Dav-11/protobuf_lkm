@@ -22,3 +22,6 @@
 
 # keep go mod
 !**/go.mod
+
+# bpf
+.output
